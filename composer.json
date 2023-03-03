@@ -2,9 +2,9 @@
     "name": "hbkux/tesxt",
     "description": "HBKU 2.0 theme based on patternlab",
     "type": "drupal-custom-theme",
+    "license": "GPL-2.0-or-later",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
-        "another-vendor/package": "1.*"
     }
 }
